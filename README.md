@@ -38,4 +38,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&locale=en" alt="walletkun" /></p>
 
-
+ ![Snake animation](https://github.com/walletkun/walletkun/blob/main/github-contribution-grid-snake.svg)
+ 
