@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fei Lin</h1>
-<h3 align="center">A Computer Science student with focus on Software Engineering and Data sciecne, welcome to my GitHub!</h3>
+<h3 align="center">A Computer Science student with focus on Software Engineering and Data science, welcome to my GitHub!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walletkun&label=Profile%20views&color=0e75b6&style=flat" alt="walletkun" /> </p>
 
