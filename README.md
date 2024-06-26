@@ -5,14 +5,10 @@
 
 - 🔭 Currently searching for topics to hone my technical skills **Working on tutorial projects to get hands on experience**
 
-- 🌱 I’m currently learning **Python,Java(Intermediate), HTML, CSS, JavaScript, Linear Algebra, Calculus' AB, BC, Multivariable(Near future), and libraries such as React, Frameworks such as TensorFlow, Springboot.**
-
-- 👯 I'm looking forward to able to collaborate **with anyone to work on a big project**
-
-- 🤝 I’m looking for help **with my project design and actively searching for partners to work on a big project!**
+- 🌱 I’m currently learning **Python,Java(Intermediate), HTML, CSS, JavaScript, Linear Algebra, Calculus' AB, BC, and libraries such as React, Frameworks such as TensorFlow, Springboot.**
 
 - 👨‍💻 All of my projects are available at my **GitHub Repository!**
-- 📫 How to reach me **feilinpersonal@gmail.com, fei.lin86@bcmail.cuny.edu**
+- 📫 How to reach me **feilinpersonal@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/walletkun/Resume](https://github.com/walletkun/Resume)
 
