@@ -31,6 +31,16 @@ img{
     color: #75aadb !important;
 }
 
+#typed-text{
+    color: #127cde !important;
+    font-weight: 600 !important;
+}
+
+.typed-cursor {
+    font-size: 35px;
+    color: #127cde !important;
+}
+
 .tech-icons{
     font-size: 4.5em !important;
     margin: 15px !important;
