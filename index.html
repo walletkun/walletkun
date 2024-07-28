@@ -3,6 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Fei Lin's personal website showcasing skills, projects, and contact information.">
+    <meta name="keywords" content="Fei Lin, Software Engineer, Data Scientist, Python, Java, SQL">
+    <meta property="og:title" content="Fei Lin - Software Engineer and Data Scientist">
+    <meta property="og:description" content="Fei Lin's personal website showcasing skills, projects, and contact information.">
+    <meta property="og:image" content="./images/ceo.jpg">
+    <meta property="og:url" content="https://www.feilin.com">
+    <meta property="og:type" content="website">
     <title>Fei Lin</title>
     <!--Fonts-->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
@@ -12,6 +19,7 @@
 
     <!--Icons-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/bootstrap-icons.min.css">
 
     <!--Custom CSS-->
     <link rel="stylesheet" href="./css/styles.css">
@@ -22,7 +30,7 @@
     
     <div class="container-fluid px-0">
         <!--Nav bar-->
-        <nav class="sticky navbar nav-bar-expand-md navbar-expand-lg navbar-light fixed-top shadow">
+        <nav class="sticky navbar navbar-expand-md navbar-expand-lg navbar-light fixed-top shadow">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#about">
                     <span class="material-icons-outlined me-1"><img src="./images/ceo.jpg" alt="feilin ceo"></span>
@@ -41,7 +49,7 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link  me-lg-3" href="#">Home</a>
+                                <a class="nav-link  me-lg-3" href="#home">Home</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link me-lg-3" href="#about">About</a>
@@ -63,11 +71,11 @@
         </nav>
         <!--End nav-->
 
-        <header class="bg-light py-5">
+        <header class="bg-light py-5" id="home">
             <div class="container px-5">
                 <div class="row align-items-center">
                     <div class="col-lg-8 col-xl-7 col-xxl-6">
-                        <div class="my-5">
+                        <div class="my-5" >
                             <h2 class="text-left fw-bold mb-2 justify-content-start">Hello, I am Fei!
                                 <span class="wave" role="img" aria-labelledby="wave">👋🏻</span>
                             </h2>
@@ -76,7 +84,7 @@
                                 I am specialized in <span class="d-block fw-bold">Python, Java and SQL.</span> Scroll down to see what I've been working on.
                             </p>
                             <div class="d-grid gap-3 d-sm-flex justify-content-start">
-                                <a class="btn btn-primary btn-large text-uppercase d-flex align-items-center " href="https://www.linkedin.com/in/fei-lincs/"> 
+                                <a class="btn btn-primary btn-large text-uppercase d-flex align-items-center " href="https://www.linkedin.com/in/fei-lincs/"  aria-label="Connect with me on LinkedIn"> 
                                     Connect With Me
                                 </a>
                                 <a class="btn btn-outline-primary btn-large text-uppercase d-flex align-items-center" href="#projects">
@@ -112,14 +120,14 @@
                     I have gained experience through self-taught projects and online courses, and I am keen to learn more about real-world professionalism.
                     <br>
                     <div class="row">
-                        <div class="col-md-8">
+                        <div class="col-md-8 my-5">
                         <a class="primary_btn text-center col-md-6" href="./assets/Fei_s_Resume.pdf" style="text-decoration: none;">
                         <span>Download resume</span></a>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
-                    <img src="./images/ceo.jpg" class="img-fluid" alt="Fei Lin CEO"> 
+                <div class="col-md-6 my-3">
+                    <img src="./images/ceo.jpg" class="img-fluid" alt="Fei Lin, CEO"> 
                 </div>
             </div>
                 
@@ -259,7 +267,7 @@
                             <div class="project-card col-md-4">
                                 <div class="project-card-view card">
                                     <div style="display: flex; justify-content: center; align-items: center;">
-                                        <img class="card-img-top" src="./images/weather_app_screenshot.png" alt="card-img" style="width: 400px; height: 250px;"/>
+                                        <img class="card-img-top mx-5" src="./images/weather_app_screenshot.png" alt="card-img" style="width: 100%; height: auto;"/>
                                     </div>
                                     <div class="card-body ">
                                         <div class="card-title h5 text-center">Python Weather App</div>
@@ -269,13 +277,8 @@
                                         </p>
                                     </div>
                                     <div class="button-container d-flex justify-content-center">
-                                        <a role="button" tabindex="0" href="https://github.com/walletkun/First_Weather_App" target="_blank" 
-                                        class="github-button btn btn-primary btn-dark text-center col-md-4"><svg stroke="currentColor" fill="currentColor" 
-                                        stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path>
-                                            </svg> 
-                                            &nbsp;
-                                            GitHub
+                                        <a href="https://github.com/walletkun/First_Weather_App" class="btn btn-dark">
+                                            <i class="bi bi-github"></i> GitHub
                                         </a>
                                     
                                     </div>
@@ -285,7 +288,7 @@
                             <div class="project-card col-md-4">
                                 <div class="project-card-view card">
                                     <div style="display: flex; justify-content: center; align-items: center;">
-                                        <img class="card-img-top" src="./images/discord_py_screenshot.png" alt="card-img" style="width: 400px; height: 250px; padding-top:10px;"/>
+                                        <img class="card-img-top mx-5" src="./images/discord_py_screenshot.png" alt="card-img" style="width: 100%; height: auto; "/>
                                     </div>
                                     <div class="card-body">
                                         <div class="card-title h5 text-center">Discord Weight Tracker</div>
@@ -295,13 +298,8 @@
                                         </p>
                                     </div>
                                     <div class="button-container d-flex justify-content-center">
-                                        <a role="button" tabindex="0" href="https://github.com/walletkun/DiscordBot" target="_blank" 
-                                        class="github-button btn btn-primary btn-dark text-center col-md-4"><svg stroke="currentColor" fill="currentColor" 
-                                        stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path>
-                                            </svg> 
-                                            &nbsp;
-                                            GitHub
+                                        <a href="https://github.com/walletkun/DiscordBot" class="btn btn-dark">
+                                            <i class="bi bi-github"></i> GitHub
                                         </a>
                                         
                                     </div>
@@ -311,7 +309,7 @@
                             <div class="project-card col-md-4">
                                 <div class="project-card-view card">
                                     <div style="display: flex; justify-content: center; align-items: center;">
-                                        <img class="card-img-top" src="./images/matplot_app_screenshot.png" alt="card-img" style="width: 400px; height: 250px;"/>
+                                        <img class="card-img-top mx-5" src="./images/matplot_app_screenshot.png" alt="card-img" style="width: 100%; height: auto;"/>
                                     </div>
                                     <div class="card-body ">
                                         <div class="card-title h5 text-center">Matplot Functions App</div>
@@ -321,13 +319,8 @@
                                         </p>
                                     </div>
                                     <div class="button-container d-flex justify-content-center">
-                                        <a role="button" tabindex="0" href="https://github.com/walletkun/cs50_python_final_project" target="_blank" 
-                                        class="github-button btn btn-primary btn-dark text-center col-md-4"><svg stroke="currentColor" fill="currentColor" 
-                                        stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path>
-                                            </svg> 
-                                            &nbsp;
-                                            GitHub
+                                        <a href="https://github.com/walletkun/cs50_python_final_project" class="btn btn-dark">
+                                            <i class="bi bi-github"></i> GitHub
                                         </a>
                                         <!-- <button type="button" class="demo-button ml-2 btn btn-secondary text-center col-md-4">
                                             <svg stroke="currentColor" fill="none" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
