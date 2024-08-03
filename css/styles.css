@@ -134,6 +134,9 @@ img{
     box-shadow: 0 10px 30px #a7cbe8;
     transition: all .4s ease 0s; */
 
+.project-card{
+    margin-bottom: 50px;
+}
 
 
 .project-card-view{
