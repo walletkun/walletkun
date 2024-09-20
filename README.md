@@ -5,13 +5,10 @@
 
 - 🔭 Currently searching for topics to hone my technical skills **Working on tutorial projects to get hands on experience**
 
-- 🌱 I’m currently learning **Python,Java(Intermediate), HTML, CSS, JavaScript, Linear Algebra, Calculus' AB, BC, and libraries such as React, Frameworks such as TensorFlow, Springboot.**
+- 🌱 I’m currently learning **Python,Java(Intermediate), HTML, CSS, JavaScript, Linear Algebra, and libraries such as React, Frameworks such as TensorFlow, Springboot.**
 
 - 👨‍💻 All of my projects are available at my **GitHub Repository!**
 - 📫 How to reach me **feilinpersonal@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/walletkun/Resume](https://github.com/walletkun/Resume)
-
 - 🌐 Visit my [portfolio website](https://walletkun.github.io/walletkun/) to learn more about me.
 
 **I consider myself a diligent learner. Before aspiring to become a Software Engineer, I experienced uncertainty regarding my career path. I often adhered to the belief that formal education was the sole source of reliable knowledge, dismissing the value of online resources due to potential misinformation. Additionally, I placed unwavering trust in the guidance of professors and teachers, perceiving their teachings as the ultimate authority. However, I now recognize the limitations of this mindset. While educators impart valuable insights based on their experiences, their teaching methods may not align with every individual's learning style. Hence, I contend that recognizing and adapting to one's unique learning preferences is paramount for effective learning and personal growth, and last but not least I tend to think I am a life long learner.**
@@ -31,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&locale=en" alt="walletkun" /></p>
 
- ![Snake animation](https://github.com/walletkun/walletkun/blob/main/github-contribution-grid-snake.svg)
  
