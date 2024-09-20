@@ -1,32 +1,46 @@
-<h1 align="center">Hi 👋, I'm Fei Lin</h1>
-<h3 align="center">A Computer Science student with focus on Software Engineering and Data science, welcome to my GitHub!</h3>
+# 💫 About Me:
+Hi 👋, I'm Fei Lin a Computer Science majored with Data Science minor at Brooklyn College as a Senior. With attempted graduation date revolving between Summer 2025 - Winter 2025. I have a deep focus with Full Stack Development, Software Engineering, Data Science. I am a driven and thrived student that are willing to take on real-world challenges. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walletkun&label=Profile%20views&color=0e75b6&style=flat" alt="walletkun" /> </p>
+# 💻 Hackathon 
+I'm currently participating in the Ingenium STEM Summer Hacks 2.0, where I'm working on an AI tutor to create an AI teaching environment for students of all levels. Hackathons are my go-to for practicing my development skills, as I believe building projects is the best way to gain real-world experience.
 
-- 🔭 Currently searching for topics to hone my technical skills **Working on tutorial projects to get hands on experience**
 
-- 🌱 I’m currently learning **Python,Java(Intermediate), HTML, CSS, JavaScript, Linear Algebra, and libraries such as React, Frameworks such as TensorFlow, Springboot.**
+# 📅 What’s Next?
+I will consistently participate in LeetCode's weekly and daily assessments, while also creating projects that benefit society. I plan to focus on networking and honing my technical skills.
 
-- 👨‍💻 All of my projects are available at my **GitHub Repository!**
-- 📫 How to reach me **feilinpersonal@gmail.com**
-- 🌐 Visit my [portfolio website](https://walletkun.github.io/walletkun/) to learn more about me.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fei-lincs/) 
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/walletkun/) 
 
-**I consider myself a diligent learner. Before aspiring to become a Software Engineer, I experienced uncertainty regarding my career path. I often adhered to the belief that formal education was the sole source of reliable knowledge, dismissing the value of online resources due to potential misinformation. Additionally, I placed unwavering trust in the guidance of professors and teachers, perceiving their teachings as the ultimate authority. However, I now recognize the limitations of this mindset. While educators impart valuable insights based on their experiences, their teaching methods may not align with every individual's learning style. Hence, I contend that recognizing and adapting to one's unique learning preferences is paramount for effective learning and personal growth, and last but not least I tend to think I am a life long learner.**
+# 💻 Tech Stack:
+**Programming Languages:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fei-lincs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fei-lincs/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/import_self_as_ceo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/import_self_as_ceo/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/walletkun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/walletkun/" height="30" width="40" /></a>
-<a href="https://discord.gg/288422472582299648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="288422472582299648" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Frameworks:**  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walletkun&show_icons=true&locale=en&layout=compact" alt="walletkun" /></p>
+**Developer Tools:**  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&locale=en" alt="walletkun" /> </p>
+
+**Data Analytics:**  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+
 
 ![](https://leetcard.jacoblin.cool/walletkun)
 
