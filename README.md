@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">:
 I'm Fei Lin a Computer Science majored with Data Science minor at Brooklyn College as a Senior. With attempted graduation date revolving between Summer 2025 - Winter 2025. I have a deep focus with Full Stack Development, Software Engineering, Data Science. I am a driven and thrived student that are willing to take on real-world challenges. 
 
 # 💻 Hackathon 
