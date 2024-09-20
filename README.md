@@ -42,5 +42,6 @@ I will consistently participate in LeetCode's weekly and daily assessments, whil
 
 
 ![](https://leetcard.jacoblin.cool/walletkun)
+![Snake animation](https://raw.githubusercontent.com/{walletkun}/{walletkun}/output/github-contribution-grid-snake-dark.svg)
 
  
