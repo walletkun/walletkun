@@ -27,6 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walletkun&show_icons=true&locale=en&layout=compact" alt="walletkun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&locale=en" alt="walletkun" /> </p>
-![](https://leetcard.jacoblin.cool/walletkun?)
+![](https://leetcard.jacoblin.cool/walletkun)
 
  
