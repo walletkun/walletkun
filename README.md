@@ -28,4 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&locale=en" alt="walletkun" /></p>
 
+<p>![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)</p>
+
  
