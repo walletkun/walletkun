@@ -9,10 +9,10 @@ I'm currently participating in the Ingenium STEM Summer Hacks 2.0, where I'm wor
 I will consistently participate in LeetCode's weekly and daily assessments, while also creating projects that benefit society. I plan to focus on networking and honing my technical skills.
 
 
-## 🌐 Connect With Me:
+# 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fei-lincs/) 
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/walletkun/) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][(feilinpersonal@gmail.com)]
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feilinpersonal@gmail.com)
 
 # 💻 Tech Stack:
 **Programming Languages:**  
