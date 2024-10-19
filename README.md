@@ -40,7 +40,7 @@ I will consistently participate in LeetCode's weekly and daily assessments, whil
 
 **Data Analytics:**  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)
+![NumPy](https://img.shields.io/badge/-Numpy-013243?.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 
 
 ![](https://leetcard.jacoblin.cool/walletkun)
