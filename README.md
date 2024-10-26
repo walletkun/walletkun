@@ -43,7 +43,7 @@ I will consistently participate in LeetCode's weekly and daily assessments, whil
 ![NumPy](https://img.shields.io/badge/-Numpy-%013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 
 
-<img width="400" src="https://leetcard.jacoblin.cool/walletkun" />  <img width="300" src="https://github-readme-stats.vercel.app/api?username=walletkun" />
+<img width="400" src="https://leetcard.jacoblin.cool/walletkun" />  <img width="400" src="https://github-readme-stats.vercel.app/api?username=walletkun" />
 ![Snake animation](https://raw.githubusercontent.com/walletkun/walletkun/output/github-contribution-grid-snake-dark.svg)
 
  
