@@ -44,10 +44,9 @@ I will consistently participate in LeetCode's weekly and daily assessments, whil
 
 
 
-<details>
- <summary>Leetcode Stats and Github Stats... </summary>
-   <img width="400" src="https://leetcard.jacoblin.cool/walletkun" />  <img width="400" src="https://github-readme-stats.vercel.app/api?username=walletkun" />
-</details>
+ **Github Statistics and Leetcode Statistics**
+ <img width="400" src="https://github-readme-stats.vercel.app/api?username=walletkun" />  <img width="400" src="https://leetcard.jacoblin.cool/walletkun" /> 
+
 ![Snake animation](https://raw.githubusercontent.com/walletkun/walletkun/output/github-contribution-grid-snake-dark.svg)
 
  
