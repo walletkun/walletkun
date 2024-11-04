@@ -2,7 +2,7 @@
 I'm Fei Lin a Computer Science majored with Data Science minor at Brooklyn College as a Senior. With attempted graduation date revolving between Summer 2025 - Winter 2025. I have a deep focus with Full Stack Development, Software Engineering, Data Science. I am a driven and thrived student that are willing to take on real-world challenges. 
 
 # 💻 Hackathon 
-I'm currently participating in the Ingenium STEM Summer Hacks 2.0, where I'm working on an AI tutor to create an AI teaching environment for students of all levels. Hackathons are my go-to for practicing my development skills, as I believe building projects is the best way to gain real-world experience.
+Hackathons are my go-to for practicing my development skills, as I believe building projects is the best way to gain real-world experience.
 
 
 # 📅 What’s Next?
