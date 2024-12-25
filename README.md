@@ -8,8 +8,11 @@
 
 <div align="center">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/walletkun/walletkun/main/asset/pfp_anime.webp" width="200" height="200" style="border-radius: 50%" />
-</div>
+    <img src="https://raw.githubusercontent.com/walletkun/walletkun/main/asset/pfp_anime.webp" 
+        width="200" 
+        height="200" 
+        style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+  </div>
   
   # Hi there! I'm Fei Lin 👋
 
