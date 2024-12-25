@@ -1,26 +1,21 @@
 <div align="center">
-  <p>
-    👨‍💻 Full Stack Developer |
-    🛠️ Software Engineer |
-    📊 Data Scientist
-  </p>
-</div>
-
-<div align="center">
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/walletkun/walletkun/main/asset/pfp_anime.webp" 
-        width="200" 
-        height="200" 
-        style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
-  </div>
+  <!-- Profile picture -->
+  <img src="https://raw.githubusercontent.com/walletkun/walletkun/main/asset/pfp_anime.webp" 
+      width="200" 
+      height="200" />
   
-  # Hi there! I'm Fei Lin 👋
+  <!-- Animated typing text -->
+  <a href="https://github.com/walletkun">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=I'm+Fei+Lin;Software+Engineer;Full+Stack+Developer;Data+Scientist" alt="Typing SVG" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fei-lincs/)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/walletkun/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feilinpersonal@gmail.com)
 
+  <!-- Social badges -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fei-lincs/)
+  [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/walletkun/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feilinpersonal@gmail.com)
 </div>
+
 
 ## 🚀 About Me
 
@@ -88,9 +83,9 @@ I actively participate in hackathons to:
   <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
+
 ## 🎯 What's Next?
 
-- 📚 Mastering Data Structures & Algorithms through daily LeetCode practice
 - 🛠️ Building impactful projects that solve real problems
 - 🤝 Growing my professional network
 - 📱 Exploring new technologies and frameworks
