@@ -21,8 +21,6 @@
 
 ## 🚀 About Me
 
-> 💻 Full Stack Developer | 🔬 Data Scientist | 🛠️ Software Engineer
-
 I'm a Computer Science major with a Data Science minor at Brooklyn College (Class of 2025). I love building things that make a difference!
 
 - 🎓 Currently working on my degree in Computer Science
