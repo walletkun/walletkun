@@ -8,7 +8,7 @@
 
 <div align="center">
   <div align="center">
-  <img src="./asset/pfp_anime.webp" width="200" height="200" style="border-radius: 50%" />
+  <img src="https://raw.githubusercontent.com/walletkun/walletkun/main/asset/pfp_anime.webp" width="200" height="200" style="border-radius: 50%" />
 </div>
   
   # Hi there! I'm Fei Lin 👋
