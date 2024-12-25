@@ -7,13 +7,16 @@
 </div>
 
 <div align="center">
-  <img src="./asset/pfp_anime.webp" alt="Profile Image" style="border-radius: 50%; width: 200px; margin: 10px; border: 2px solid;" />
+  <div align="center">
+  <img src="./asset/pfp_anime.webp" width="200" height="200" style="border-radius: 50%" />
+</div>
   
-  # Hi there! I'm Fei Lin 👋 
+  # Hi there! I'm Fei Lin 👋
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fei-lincs/)
-  [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/walletkun/)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feilinpersonal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fei-lincs/)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/walletkun/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feilinpersonal@gmail.com)
+
 </div>
 
 ## 🚀 About Me
@@ -30,6 +33,7 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -39,6 +43,7 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
 </p>
 
 ### Frameworks & Libraries
+
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -49,6 +54,7 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
 </p>
 
 ### Tools & Platforms
+
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -57,6 +63,7 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
 </p>
 
 ### Data Science Stack
+
 <p>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -67,6 +74,7 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
 > "Building is the best way to learn" - My Motto
 
 I actively participate in hackathons to:
+
 - 🚀 Challenge myself with real-world problems
 - 🤝 Collaborate with other passionate developers
 - 💡 Turn innovative ideas into working prototypes
