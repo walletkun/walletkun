@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="./asset/pfp_anime.webp" alt="Profile Image" style="border-radius: 70%;" />
+  <img src="./asset/pfp_anime.webp" alt="Profile Image" style="border-radius: 50%;" />
   
   # Hi there! I'm Fei Lin 👋 
 
