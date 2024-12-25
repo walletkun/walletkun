@@ -1,108 +1,11 @@
-import React from 'react'
-import { Github, Linkedin, Mail, Code, Calendar, Briefcase, Award, BookOpen } from 'lucide-react'
+<div align="center">
+  <p>
+    👨‍💻 Full Stack Developer |
+    🛠️ Software Engineer |
+    📊 Data Scientist
+  </p>
+</div>
 
-export default function ProfileReadme() {
-  return (
-    <div className="font-sans bg-gradient-to-br from-gray-900 to-blue-900 text-white p-8 rounded-lg shadow-2xl max-w-4xl mx-auto">
-      <header className="text-center mb-8">
-        <h1 className="text-4xl font-bold mb-2">Fei Lin</h1>
-        <div className="h-8 overflow-hidden">
-          <p className="text-xl text-blue-300 typewriter">
-            Full Stack Developer
-            <br />
-            Software Engineer
-            <br />
-            Data Scientist
-          </p>
-        </div>
-      </header>
-
-      <section className="mb-8">
-        <h2 className="text-2xl font-semibold mb-4 flex items-center">
-          <Code className="mr-2" /> About Me
-        </h2>
-        <p className="text-gray-300 leading-relaxed">
-          I'm a Computer Science major with a minor in Data Science at Brooklyn College, set to graduate between Summer and Winter 2025. My passion lies in Full Stack Development, Software Engineering, and Data Science. I thrive on real-world challenges and am constantly seeking opportunities to grow and innovate.
-        </p>
-      </section>
-
-      <section className="mb-8">
-        <h2 className="text-2xl font-semibold mb-4 flex items-center">
-          <Award className="mr-2" /> Hackathons
-        </h2>
-        <p className="text-gray-300 leading-relaxed">
-          Hackathons are my playground for honing development skills. I believe in learning through building, and these events provide the perfect platform to gain hands-on, real-world experience.
-        </p>
-      </section>
-
-      <section className="mb-8">
-        <h2 className="text-2xl font-semibold mb-4 flex items-center">
-          <Calendar className="mr-2" /> What's Next?
-        </h2>
-        <p className="text-gray-300 leading-relaxed">
-          My roadmap includes consistent participation in LeetCode's weekly and daily challenges, creating impactful projects, expanding my professional network, and continuously refining my technical expertise.
-        </p>
-      </section>
-
-      <section className="mb-8">
-        <h2 className="text-2xl font-semibold mb-4 flex items-center">
-          <Briefcase className="mr-2" /> Tech Stack
-        </h2>
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
-          {['Python', 'JavaScript', 'Java', 'HTML5', 'CSS3', 'Next.js', 'React', 'Node.js', 'TailwindCSS', 'Firebase', 'Bootstrap', 'Spring Boot', 'Git', 'GitHub', 'Postman', 'Pandas', 'NumPy'].map((tech) => (
-            <div key={tech} className="bg-blue-800 rounded-full px-4 py-2 text-center text-sm font-medium">
-              {tech}
-            </div>
-          ))}
-        </div>
-      </section>
-
-      <section className="mb-8">
-        <h2 className="text-2xl font-semibold mb-4 flex items-center">
-          <BookOpen className="mr-2" /> GitHub & LeetCode Stats
-        </h2>
-        <div className="grid md:grid-cols-2 gap-4">
-          <img src="https://github-readme-stats.vercel.app/api?username=walletkun&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" className="w-full rounded-lg" />
-          <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" className="w-full rounded-lg" />
-        </div>
-      </section>
-
-      <footer className="text-center">
-        <h2 className="text-2xl font-semibold mb-4">Connect With Me</h2>
-        <div className="flex justify-center space-x-4">
-          <a href="https://www.linkedin.com/in/fei-lincs/" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:text-blue-100">
-            <Linkedin size={24} />
-          </a>
-          <a href="https://devpost.com/walletkun/" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:text-blue-100">
-            <Github size={24} />
-          </a>
-          <a href="mailto:feilinpersonal@gmail.com" className="text-blue-300 hover:text-blue-100">
-            <Mail size={24} />
-          </a>
-        </div>
-      </footer>
-
-      <style jsx>{`
-        @keyframes typewriter {
-          0%, 33.33% {
-            transform: translateY(0);
-          }
-          33.34%, 66.66% {
-            transform: translateY(-1.5em);
-          }
-          66.67%, 100% {
-            transform: translateY(-3em);
-          }
-        }
-
-        .typewriter {
-          display: inline-block;
-          animation: typewriter 9s infinite;
-        }
-      `}</style>
-    </div>
-  )
-}
 <div align="center">
   <img src="/placeholder.svg?height=200&width=200" alt="Profile Image" style="border-radius: 50%;" />
   
