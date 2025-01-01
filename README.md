@@ -58,7 +58,9 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
 </p>
 
 ## Database management
+<p>
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ### Data Science Stack
 
