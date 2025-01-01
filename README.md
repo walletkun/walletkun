@@ -57,7 +57,8 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-## Database management
+### Database management
+
 <p>
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
