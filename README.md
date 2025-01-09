@@ -69,6 +69,8 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
 
 <p>
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 ### Data Science Stack
