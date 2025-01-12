@@ -6,7 +6,7 @@
   <p></p>
   <!-- Animated typing text -->
   <a href="https://github.com/walletkun">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=b6c1ca&center=true&vCenter=true&width=435&lines=I'm+Fei+Lin;Software+Engineer;Full+Stack+Developer;Data+Scientist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=GeistMono&size=30&duration=3000&pause=1000&color=b6c1ca&center=true&vCenter=true&width=435&lines=I'm+Fei+Lin;Software+Engineer;Full+Stack+Developer;Data+Scientist" alt="Typing SVG" />  
   </a>
 
 
