@@ -96,32 +96,26 @@ I actively participate in hackathons to:
 
 ## 📈 GitHub, LeetCode, and WakaTime Stats
 
-
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-  <!-- Left Column - GitHub Stats -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=contribs,prs&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=0d1117" 
-      width="360px" 
-      height="150px"
-      style="margin-bottom: 10px" />
-    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=dark&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
-      width="360px"
-      height="150px" />
-  </div>
-
-  <!-- Center Divider -->
-  <div style="width: 2px; height: 310px; background: linear-gradient(180deg, transparent, #666, transparent);"></div>
-
-  <!-- Right Column -->
-  <div style="display: flex; flex-direction: column;">
-    <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap&hide_border=true&border=0&radius=20" 
-      width="420px"
-      height="310px" />
-    <div style="height: 1px; background: linear-gradient(90deg, transparent, #666, transparent); margin: 10px 0;"></div>
-    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/wakatime?username=@walletkun&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117&layout=compact" 
-      width="420px"
-      height="100px" />
-  </div>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=contribs,prs&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=0d1117" 
+    width="495px" 
+    height="195px" />
+    
+  <!-- Languages -->
+  <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=dark&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
+    width="495px"
+    height="195px" />
+    
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap&hide_border=true&border=0&radius=20" 
+    width="495px"
+    height="195px" />
+    
+  <!-- WakaTime Stats -->
+  <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/wakatime?username=@walletkun&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117&layout=compact" 
+    width="495px"
+    height="100px" />
 </div>
 
 ## 🎯 What's Next?
