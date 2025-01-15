@@ -103,7 +103,6 @@ I actively participate in hackathons to:
       width="400px" 
       height="165px"
       style="margin-bottom: 10px" />
-    
     <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=transparent&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=00000000" 
       width="400px"
       height="165px" />
