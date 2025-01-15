@@ -97,6 +97,7 @@ I actively participate in hackathons to:
 ## 📈 GitHub, LeetCode, and WakaTime Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Left Column - GitHub Stats -->
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=contribs,prs&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=0d1117" 
       width="400px" 
@@ -105,19 +106,19 @@ I actively participate in hackathons to:
     <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=dark&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
       width="400px"
       height="165px" />
-
   </div>
 
-  <div style="width: 2px; height: 510px; background: linear-gradient(180deg, transparent, #666, transparent);"></div>
+  <!-- Center Divider -->
+  <div style="width: 2px; height: 340px; background: linear-gradient(180deg, transparent, #666, transparent);"></div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <!-- Right Column - LeetCode and WakaTime side by side -->
+  <div style="display: flex; gap: 10px;">
     <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap&hide_border=true&border=0&radius=20" 
       width="400px"
-      height="340px" 
-      style="margin-bottom: 10px;" />
-    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/wakatime?username=@walletkun&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" width="400px" height="165px" />
-
-
+      height="340px" />
+    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/wakatime?username=@walletkun&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117&layout=compact" 
+      width="400px"
+      height="340px" />
   </div>
 </div>
 
