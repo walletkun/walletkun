@@ -96,27 +96,29 @@ I actively participate in hackathons to:
 
 ## 📈 GitHub, LeetCode, and WakaTime Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- Left Column - GitHub Stats -->
-  <div style="display: flex; flex-direction: column; align-items: center; border: 1px solid #333; padding: 15px; border-radius: 10px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=contribs,prs&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=0d1117" 
       width="400px" 
-      height="165px" />
-    <hr style="width: 100%; border: none; height: 1px; background: linear-gradient(90deg, transparent, #666, transparent); margin: 15px 0;" />
+      height="165px"
+      style="margin-bottom: 10px" />
     <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=dark&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
       width="400px"
       height="165px" />
   </div>
 
-  <!-- Right Column - LeetCode and WakaTime -->
-  <div style="display: flex; flex-direction: column; align-items: center; border: 1px solid #333; padding: 15px; border-radius: 10px;">
+  <!-- Center Divider -->
+  <div style="width: 2px; height: 340px; background: linear-gradient(180deg, transparent, #666, transparent);"></div>
+
+  <!-- Right Column - LeetCode and WakaTime side by side -->
+  <div style="display: flex; gap: 10px;">
     <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap&hide_border=true&border=0&radius=20" 
       width="400px"
-      height="165px" />
-    <hr style="width: 100%; border: none; height: 1px; background: linear-gradient(90deg, transparent, #666, transparent); margin: 15px 0;" />
-    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/wakatime?username=@walletkun&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
+      height="340px" />
+    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/wakatime?username=@walletkun&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117&layout=compact" 
       width="400px"
-      height="165px" />
+      height="340px" />
   </div>
 </div>
 
