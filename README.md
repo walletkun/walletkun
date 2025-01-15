@@ -99,11 +99,11 @@ I actively participate in hackathons to:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <!-- Left Column - GitHub Stats -->
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=contribs,prs&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=00000000" 
+    <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=contribs,prs&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=0d1117" 
       width="400px" 
       height="165px"
       style="margin-bottom: 10px" />
-    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=transparent&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=00000000" 
+    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=dark&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
       width="400px"
       height="165px" />
   </div>
@@ -118,7 +118,6 @@ I actively participate in hackathons to:
       height="340px" />
   </div>
 </div>
-
 ## 🎯 What's Next?
 
 - 🛠️ Building impactful projects that solve real problems
