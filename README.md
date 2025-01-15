@@ -114,11 +114,8 @@ I actively participate in hackathons to:
       width="400px"
       height="340px" 
       style="margin-bottom: 10px;" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/wakatime?username=walletkun&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
-      width="400px"
-      height="165px" />
+    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/wakatime?username=your_wakatime_username&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117"     width="400px" height="165px" />
+
   </div>
 </div>
 
