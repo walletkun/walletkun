@@ -102,12 +102,12 @@ I actively participate in hackathons to:
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
       </td>
-      <td width="40%">
+      <td width="50%">
         <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap&hide_border=true" alt="LeetCode Stats" />
       </td>
     </tr>
     <tr>
-      <td width="100%">
+      <td width="50%">
         <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
