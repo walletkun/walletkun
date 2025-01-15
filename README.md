@@ -100,7 +100,9 @@ I actively participate in hackathons to:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
- [![Top Langs](https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=dark&cache_seconds=86400)](https://github.com/walletkun/github-readme-stats)
+   <a href="https://github.com/walletkun/github-readme-stats">
+      <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=dark&cache_seconds=86400" alt="Top Langs" />
+  </a>
 </div>
 
 
