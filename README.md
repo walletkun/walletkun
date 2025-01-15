@@ -9,13 +9,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=GeistMono&size=30&duration=3000&pause=1000&color=b6c1ca&center=true&vCenter=true&width=435&lines=I'm+Fei+Lin;Software+Engineer;Full+Stack+Developer;Data+Scientist" alt="Typing SVG" />  
   </a>
 
-
   <!-- Social badges -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fei-lincs/)
-  [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/walletkun/)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feilinpersonal@gmail.com)
+  <p>
+    <a href="https://www.linkedin.com/in/fei-lincs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://devpost.com/walletkun/"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost" /></a>
+    <a href="mailto:feilinpersonal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
-
 
 ## 🚀 About Me
 
@@ -37,7 +37,6 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
-
 
 ### Design Tools
 
@@ -66,17 +65,17 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-### Database management
+### Database Management
 
 <p>
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img alt='Supabase' src='https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge' />
-<img alt='MongoDB' src='https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white' />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt='Supabase' src='https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge' />
+  <img alt='MongoDB' src='https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white' />
 </p>
 
-### Data Science/ Machine Learning Stack
+### Data Science / Machine Learning Stack
 
 <p>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -100,11 +99,10 @@ I actively participate in hackathons to:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
-   <a href="https://github.com/walletkun/github-readme-stats">
-      <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=onedark&cache_seconds=86400" alt="Top Langs" />
+  <a href="https://github.com/walletkun/github-readme-stats">
+    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=onedark&cache_seconds=86400" alt="Top Langs" />
   </a>
 </div>
-
 
 ## 🎯 What's Next?
 
@@ -119,3 +117,4 @@ I actively participate in hackathons to:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=walletkun&color=blueviolet" alt="Profile views" />
 </div>
+
