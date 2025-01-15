@@ -96,12 +96,14 @@ I actively participate in hackathons to:
 
 ## 📈 GitHub and LeetCode Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=contribs,prs&card_width=250" alt="GitHub Stats" width="250px" />
-  <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=radical&layout=compact&hide_border=true&card_width=250" alt="Top Languages" width="250px" />
-</div>
-<div align="center" style="margin-top: 5px;">
-  <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap&hide_border=true&width=500" alt="LeetCode Stats" width="500px" />
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
+  <div style="display: flex; flex-direction: column; gap: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=contribs,prs&card_width=250" alt="GitHub Stats" width="250px" />
+    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=radical&layout=compact&hide_border=true&card_width=250" alt="Top Languages" width="250px" />
+  </div>
+  <div>
+    <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap&hide_border=true&width=300" alt="LeetCode Stats" width="300px" />
+  </div>
 </div>
 
 ## 🎯 What's Next?
