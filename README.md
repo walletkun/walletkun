@@ -94,14 +94,27 @@ I actively participate in hackathons to:
 - 💡 Turn innovative ideas into working prototypes
 - 🌱 Learn new technologies under pressure
 
-## 📈 GitHub Stats
+## 📈 GitHub and LeetCode Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
-  <a href="https://github.com/walletkun/github-readme-stats">
-    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=onedark&cache_seconds=86400" alt="Top Langs" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=walletkun&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap&hide_border=true" alt="LeetCode Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🎯 What's Next?
