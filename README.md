@@ -94,7 +94,7 @@ I actively participate in hackathons to:
 - 💡 Turn innovative ideas into working prototypes
 - 🌱 Learn new technologies under pressure
 
-## 📈 GitHub, LeetCode, and WakaTime Stats
+## 📈 GitHub, LeetCode, Coding Time Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- Left Column - GitHub Stats -->
