@@ -99,7 +99,7 @@ I actively participate in hackathons to:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- Left Column - GitHub Stats -->
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=contribs,prs&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=0d1117" 
+    <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=dark&count_private=true&hide=contribs,prs&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=0d1117" 
       width="400px" 
       height="165px"
       style="margin-bottom: 10px" />
