@@ -102,7 +102,7 @@ I actively participate in hackathons to:
     <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&hide_border=true&theme=dark&hide=contribs,prs&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=0d1117" 
       width="400px" 
       height="165px"
-      style="margin-bottom: 10px" />
+      style="margin-bottom: 20px" />
     <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/top-langs/?username=walletkun&theme=dark&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
       width="400px"
       height="165px" />
@@ -112,7 +112,7 @@ I actively participate in hackathons to:
   <div style="width: 2px; height: 340px; background: linear-gradient(180deg, transparent, #666, transparent);"></div>
 
   <!-- Right Column - LeetCode and WakaTime side by side -->
-  <div style="display: flex; gap: 10px;">
+  <div style="display: flex; gap: 20px;">
     <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap&hide_border=true&border=0&radius=20" 
       width="400px"
       height="340px" />
