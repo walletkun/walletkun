@@ -25,7 +25,7 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
 - 🌱 Learning new technologies and frameworks every day
 - 💡 Passionate about solving real-world problems through code
 - 🏆 Active participant in hackathons and coding competitions
-- 🔗 Feel Free to connect with me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/fei-lincs)
+- 🔗 Feel Free to connect with me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fei-lincs)
 
 ## 🛠️ Tech Stack
 
