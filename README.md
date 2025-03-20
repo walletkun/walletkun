@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/walletkun/walletkun/main/asset/pfp_anime.webp" 
       width="200" 
       height="200" />
-  <p></p>
+  <br>
   <!-- Animated typing text -->
   <a href="https://github.com/walletkun">
     <img src="https://readme-typing-svg.demolab.com?font=GeistMono&size=30&duration=3000&pause=1000&color=b6c1ca&center=true&vCenter=true&width=435&lines=I'm+Fei+Lin;Software+Engineer;Full+Stack+Developer;Data+Scientist" alt="Typing SVG" />  
@@ -25,7 +25,6 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
 - 🌱 Learning new technologies and frameworks every day
 - 💡 Passionate about solving real-world problems through code
 - 🏆 Active participant in hackathons and coding competitions
-- 🔗 Feel Free to connect with me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fei-lincs)
 
 ## 🛠️ Tech Stack
 
