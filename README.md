@@ -21,7 +21,7 @@
 
 I'm a Computer Science major with a Data Science minor at Brooklyn College (Class of 2025). I love building things that make a difference!
 
-- 🎓 Currently working on my degree in Computer Science and minor in Data Science
+- 🎓 Currently working on my degree in Computer Science, minor in Data Science and Multi Media
 - 🌱 Learning new technologies and frameworks every day
 - 💡 Passionate about solving real-world problems through code
 - 🏆 Active participant in hackathons and coding competitions
