@@ -128,12 +128,6 @@ I actively participate in hackathons to:
   </div>
 </div>
 
-## 🎯 What's Next?
-
-- 🛠️ Building impactful projects that solve real problems
-- 🤝 Growing my professional network
-- 📱 Exploring new technologies and frameworks
-
 ## 🐍 Contribution Graph
 
 ![Snake animation](https://raw.githubusercontent.com/walletkun/walletkun/output/github-contribution-grid-snake-dark.svg)
