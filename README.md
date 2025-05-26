@@ -19,12 +19,12 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science major with a Data Science minor at Brooklyn College (Class of 2025). I love building things that make a difference!
+I'm a Computer Science major with a Data Science minor at Brooklyn College (Class of 2025). I love to build meaningful and beneficial to self softwares.
+> "If it's beneficial for me then someone in the otherside of the world definitely needs it as well." - My Motto
 
-- 🎓 Currently working on my degree in Computer Science, minor in Data Science and Multi Media
-- 🌱 Learning new technologies and frameworks every day
-- 💡 Passionate about solving real-world problems through code
-- 🔍 Currently looking for 2025 Summer Software Engineer internship
+- Working on my degree in Computer Science, minor in Data Science
+- Working on mastering leetcode and pattern recognizing
+- Actively searching for internship for Fall 2025 and Full time after that
 
 ## 🛠️ Tech Stack
 
@@ -91,14 +91,12 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
 
 ## 🏆 Hackathons
 
-> "Building is the best way to learn" - My Motto
 
 I actively participate in hackathons to:
 
-- 🚀 Challenge myself with real-world problems
-- 🤝 Collaborate with other passionate developers
-- 💡 Turn innovative ideas into working prototypes
-- 🌱 Learn new technologies under pressure
+- Network and expand my horizon
+- Learning new technologies with passion
+- Building to understand the newer technologies that is out there
 
 ## 📈 GitHub, LeetCode, Coding Time Stats
 
