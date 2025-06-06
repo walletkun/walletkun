@@ -20,8 +20,6 @@
 ## 🚀 About Me
 
 I'm a Computer Science major with a Data Science minor at Brooklyn College (Class of 2025). I love to build meaningful and beneficial to self softwares.
-> "If it's beneficial for me then someone in the otherside of the world definitely needs it as well." - My Motto
-
 - Working on my degree in Computer Science, minor in Data Science
 - Working on mastering leetcode and pattern recognizing
 - Actively searching for internship for Fall 2025 and Full time after that
