@@ -99,7 +99,7 @@ I actively participate in hackathons to:
 <div align="center">
   <!-- Top card - Top Languages (longest/widest) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walletkun&theme=dark&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
-       width="400px" />
+       width="300px" />
   
   <br><br>
   
