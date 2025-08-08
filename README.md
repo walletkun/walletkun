@@ -88,7 +88,6 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
 
 ## 🏆 Hackathons
 
-
 I actively participate in hackathons to:
 
 - Network and expand my horizon
@@ -97,30 +96,18 @@ I actively participate in hackathons to:
 
 ## 📈 GitHub, LeetCode, Coding Time Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Left Column - GitHub Stats -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=dark&hide_title=true&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
-      width="400px" 
-      height="165px"
-      style="margin-bottom: 20px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walletkun&theme=dark&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
-      width="400px"
-      height="165px" />
-  </div>
-
-  <!-- Center Divider -->
-  <div style="width: 2px; height: 340px; background: linear-gradient(180deg, transparent, #666, transparent);"></div>
-
-  <!-- Right Column - LeetCode and WakaTime side by side -->
-  <div style="display: flex; gap: 20px;">
-    <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap&hide_border=true&border=0&radius=20" 
-      width="400px"
-      height="340px" />
-    <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/wakatime?username=@walletkun&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117&layout=compact" 
-      width="400px"
-      height="340px" />
-  </div>
+<div align="center">
+  <!-- Top card - LeetCode (longest/widest) -->
+  <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap&hide_border=true&border=0&radius=20" 
+       width="500px" />
+  
+  <br><br>
+  
+  <!-- Bottom two cards side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=dark&hide_title=true&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
+       width="400px" />
+  <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/wakatime?username=@walletkun&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117&layout=compact" 
+       width="400px" />
 </div>
 
 ## 🐍 Contribution Graph
