@@ -94,12 +94,12 @@ I actively participate in hackathons to:
 - Learning new technologies with passion
 - Building to understand the newer technologies that is out there
 
-## 📈 GitHub & Coding Time Stats
+## 📈 Stats
 
 <div align="center">
   <!-- Top card - Top Languages (longest/widest) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walletkun&theme=dark&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
-       width="500px" />
+       width="400px" />
   
   <br><br>
   
