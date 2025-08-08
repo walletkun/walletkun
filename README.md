@@ -94,11 +94,11 @@ I actively participate in hackathons to:
 - Learning new technologies with passion
 - Building to understand the newer technologies that is out there
 
-## 📈 GitHub, LeetCode, Coding Time Stats
+## 📈 GitHub & Coding Time Stats
 
 <div align="center">
-  <!-- Top card - LeetCode (longest/widest) -->
-  <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap&hide_border=true&border=0&radius=20" 
+  <!-- Top card - Top Languages (longest/widest) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walletkun&theme=dark&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
        width="500px" />
   
   <br><br>
