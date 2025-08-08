@@ -60,7 +60,6 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"/>
-
 </p>
 
 ### Database Management
@@ -71,6 +70,7 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt='Supabase' src='https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge' />
   <img alt='MongoDB' src='https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white' />
+  <img alt='MySQL' src='https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white' />
 </p>
 
 ### Data Science / Machine Learning Stack
