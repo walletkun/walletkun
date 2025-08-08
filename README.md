@@ -1,10 +1,15 @@
 <div align="center">
+  <!-- Animated typing text -->
+  <a href="https://github.com/walletkun">
+    <img src="https://readme-typing-svg.demolab.com?font=GeistMono&size=30&duration=3000&pause=1000&color=b6c1ca&center=true&vCenter=true&width=435&lines=I'm+Fei+Lin;Software+Engineer;Full+Stack+Developer;Data+Scientist" alt="Typing SVG" />  
+  </a>
   <!-- Social badges -->
   <p>
     <a href="https://www.linkedin.com/in/fei-lincs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://devpost.com/walletkun/"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost" /></a>
     <a href="mailto:feilinpersonal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
+</div>
 </div>
 
 ## 🚀 About Me
