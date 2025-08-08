@@ -86,14 +86,6 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
   <img alt='TensorFlow' src="https://img.shields.io/badge/Tensorflow-red?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
 </p>
 
-## 🏆 Hackathons
-
-I actively participate in hackathons to:
-
-- Network and expand my horizon
-- Learning new technologies with passion
-- Building to understand the newer technologies that is out there
-
 ## 📈 Stats
 
 <div align="center">
