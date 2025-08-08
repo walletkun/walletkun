@@ -1,9 +1,4 @@
 <div align="center">
-  <!-- Profile picture -->
-  <img src="https://raw.githubusercontent.com/walletkun/walletkun/main/asset/pfp_anime.webp" 
-      width="200" 
-      height="200" />
-  <br>
   <!-- Social badges -->
   <p>
     <a href="https://www.linkedin.com/in/fei-lincs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
