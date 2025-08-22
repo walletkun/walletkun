@@ -15,7 +15,6 @@
 ## 🚀 About Me
 
 I'm a Computer Science major with a Data Science minor at Brooklyn College (Class of 2025). I love to build meaningful and beneficial to self softwares.
-- Working as a Full Stack Developer Intern @ ERBuddy Inc.
 - Actively searching and prepping for Fall 2025 internships and New grad roles 
 
 ## 🛠️ Tech Stack
