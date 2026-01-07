@@ -80,21 +80,6 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
   <img alt='TensorFlow' src="https://img.shields.io/badge/Tensorflow-red?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
 </p>
 
-## 📈 Stats
-
-<div align="center">
-  <!-- Top card - Top Languages (longest/widest) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walletkun&theme=dark&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
-       width="300px" />
-  
-  <br><br>
-  
-  <!-- Bottom two cards side by side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=dark&hide_title=true&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
-       width="400px" />
-  <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/wakatime?username=@walletkun&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117&layout=compact" 
-       width="400px" />
-</div>
 
 ## 🐍 Contribution Graph
 
