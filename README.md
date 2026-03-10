@@ -10,7 +10,7 @@
 
 I'm a Computer Science major with a Data Science minor at Brooklyn College (Class of 2026). I love to build meaningful and beneficial to self softwares.
 - You can visit my [Portfolio](https://www.walletkun.com) to learn more about me!
-- You can contact me by [https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fei-lincs/](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fei-lincs/)
+- You can contact me by <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fei-lincs/" />
 
 ## 🛠️ Tech Stack
 
