@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 I'm a Masters Student at Georgia Institute of Technology. I love to build meaningful and beneficial to self softwares.
-- You can visit my [Portfolio](https://www.walletkun.com) to learn more about me!
+- You can visit my [Portfolio](https://www.walletkun.github.io) to learn more about me!
 - You can contact me by <a href="https://www.linkedin.com/in/fei-lincs"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
 ## 🛠️ Tech Stack
